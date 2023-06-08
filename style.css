@@ -1,0 +1,65 @@
+body{
+    background-image:url(images.jpeg) 
+    background-color:aliceblue;
+    opacity: 20;
+    margin: 0%;
+}
+h1{
+    font-size: 2.5rem;
+    color: blue;
+    text-align: center;
+    padding: ;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+  }
+  
+  nav li {
+    margin: 0 10px;
+  }
+  
+  li a {
+    display: block;
+    color:blue;
+    text-align: center;
+    padding: 14px 16px; /later
+    text-decoration: none;
+  }
+
+  a {
+    text-decoration: none;
+    color: #000;
+  }
+
+  .About:hover{
+    color:red;
+    font-weight: bold;
+    background-color: #111;
+  }
+
+  .Mission:hover{
+    color: red;
+    font-weight: bold;
+    background-color: #111;
+  }
+
+  .Values:hover{
+    color:red;
+    font-weight: bold;
+    background-color: #111;
+  }
+
+  .Goals:hover{
+    color: red;
+    font-weight: bold;
+     background-color: #111;
+  }
+  
